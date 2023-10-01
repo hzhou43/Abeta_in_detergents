@@ -1,0 +1,7 @@
+-input file for the production run: production.mdin
+-parameter file: start.parm7
+-restart file: start.rst7
+
+
+-initial coordinate PDB structure: start.pdb
+-final coordinate PDB structure from Sim1 at 2200 ns: final.pdb
